@@ -1,0 +1,3 @@
+../Core/Src/toca.c:40:6:init_serial_io	1
+../Core/Src/toca.c:66:5:__io_getchar	2
+../Core/Src/toca.c:84:5:__io_putchar	1
